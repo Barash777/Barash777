@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siarhei Baranouski</h1>
-<h3 align="center">A passionate frontend developer specializing in React and Redux</h3>
+<h3 align="center">Frontend developer specializing in React</h3>
 
 - 🌱 I’m currently learning **ReactNative and NodeJS**
-
-- 👨‍💻 All of my projects are available at [https://barash777.github.io/portfolio/](https://barash777.github.io/portfolio/)
 
 - 📫 How to reach me: **mail: barash.vertihvost@gmail.com, telegram: https://t.me/barash_777**
 
